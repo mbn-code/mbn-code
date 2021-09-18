@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CollinEdward.
-- 👀 I’m interested in python, C++, robotics, computer sience, pentesting (web).
+- 👀 I’m interested in python, C++, robotics, computer sience, pentesting (web), networking.
 - 🌱 Studying french, python, robotics, computer science.
 - 💞️ I’m looking to collaborate on. Nothing at the minute.
 - 📫 How to reach me, 1ƈʏ5ք0ռɢ3ɮ0ɮ#0200.
