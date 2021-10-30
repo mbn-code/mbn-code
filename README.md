@@ -4,11 +4,10 @@
 - 💞️ I’m looking to collaborate on. Nothing at the minute.
 - 📫 How to reach me, 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366.
 
-Twitter 
+
 ```
 https://twitter.com/1cy5p0ng3b0b
 ```
-Discord
 ```
 https://discord.gg/DeY3DsqWd8
 ```
