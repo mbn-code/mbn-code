@@ -15,7 +15,7 @@ https://discord.gg/DeY3DsqWd8
 
 Download all pinned repositories (bash terminal - git)
 ```bash
-sudo git clone https://github.com/CollinEdward/CppTutorialWithExamples.git; git clone https://github.com/CollinEdward/CountToNumber.py.git; git clone https://github.com/CollinEdward/GettingUserInputCpp.git;git clone https://github.com/CollinEdward/PythonTutorial-Easy-to-Hard.git; git clone https://github.com/CollinEdward/DiceRollGameTemplate.git; git clone https://github.com/CollinEdward/Face_HandPasswordUnlocker.git; mkdir CollinEdwardRepos;sudo mv CppTutorialWithExamples CollinEdwardRepos;sudo mv CountToNumber.py CollinEdwardRepos;sudo mv GettingUserInputCpp CollinEdwardRepos;sudo mv PythonTutorial-Easy-to-Hard CollinEdwardRepos;sudo mv DiceRollGameTemplate CollinEdwardRepos; mv Face_HandPasswordUnlocker CollinEdwardRepos;echo \----------------------;Thanks for downloading my repositories.
+sudo git clone https://github.com/CollinEdward/CppTutorialWithExamples.git; git clone https://github.com/CollinEdward/CountToNumber.py.git; git clone https://github.com/CollinEdward/GettingUserInputCpp.git;git clone https://github.com/CollinEdward/PythonTutorial-Easy-to-Hard.git; git clone https://github.com/CollinEdward/DiceRollGameTemplate.git; git clone https://github.com/CollinEdward/Face_HandPasswordUnlocker.git; mkdir CollinEdwardRepos;sudo mv CppTutorialWithExamples CollinEdwardRepos;sudo mv CountToNumber.py CollinEdwardRepos;sudo mv GettingUserInputCpp CollinEdwardRepos;sudo mv PythonTutorial-Easy-to-Hard CollinEdwardRepos;sudo mv DiceRollGameTemplate CollinEdwardRepos; mv Face_HandPasswordUnlocker CollinEdwardRepos;echo \----------------------;echo Thanks for downloading my repositories.;echo \----------------------
 ```
 
 
