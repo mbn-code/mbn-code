@@ -19,7 +19,29 @@ Statistics of my github profile
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&theme=prussian&show_icons=true)
 
+### Hi there 👋, my name is Collin  Edward
 
+    Hi, I’m @CollinEdward
+    seedling Studying french, python, robotics, computer science.
+    mailbox How to reach me, 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366.
+
+Skills: Python, C++, robotics, computer sience, pentesting (web), networking.
+
+- 🌱 I’m currently learning C++ 
+- 📫 How to reach me: 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CollinEdward)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/1cy5p0ng3b0b)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CollinEdward)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinEdward)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CollinEdward)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)  
+
+![Profile views](https://gpvc.arturio.dev/CollinEdward)  
 
 
 <!---
