@@ -29,8 +29,6 @@ https://discord.gg/DeY3DsqWd8
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinEdward)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CollinEdward)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)  
 
 ![Profile views](https://gpvc.arturio.dev/CollinEdward)  
