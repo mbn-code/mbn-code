@@ -18,7 +18,7 @@ Skills: Python, C++, robotics, computer sience, pentesting (web), networking.
 - 📫 How to reach me: 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CollinEdward)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/1cy5p0ng3b0b)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CollinEdward)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/1cy5p0ng3b0b)  
 Discord
 ```
 https://discord.gg/DeY3DsqWd8
