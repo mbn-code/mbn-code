@@ -9,8 +9,8 @@ Statistics of my github profile
 ### Hi there 👋, my name is Collin  Edward
 
     Hi, I’m @CollinEdward
-    seedling Studying french, python, robotics, computer science.
-    mailbox How to reach me, 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366.
+    I am currently studying french, python, robotics, computer science.
+    How to reach me, 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366.
 
 Skills: Python, C++, robotics, computer sience, pentesting (web), networking.
 
