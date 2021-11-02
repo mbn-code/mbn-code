@@ -31,10 +31,4 @@ https://discord.gg/DeY3DsqWd8
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)  
 
-![Profile views](https://gpvc.arturio.dev/CollinEdward)  
-
-
-<!---
-CollinEdward/CollinEdward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile views](https://gpvc.arturio.dev/CollinEdward)
