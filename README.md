@@ -24,11 +24,6 @@ Discord
 https://discord.gg/DeY3DsqWd8
 
 ```
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CollinEdward)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinEdward)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)  
 
 ![Profile views](https://gpvc.arturio.dev/CollinEdward)
