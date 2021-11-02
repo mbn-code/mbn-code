@@ -4,8 +4,8 @@ sudo echo Downloading all pinned repositories.; sudo git clone https://github.co
 ```
 Statistics of my github profile
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&theme=prussian&show_icons=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)  
+<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&theme=prussian&show_icons=true)</center>
+<center>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)</center>
 
 ### Hi there 👋, my name is Collin  Edward
     Hi, I’m @CollinEdward
