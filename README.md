@@ -4,12 +4,12 @@ sudo echo Downloading all pinned repositories.; sudo git clone https://github.co
 ```
 Statistics of my github profile
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&theme=prussian&show_icons=true)
 
 ### Hi there 👋, my name is Collin  Edward
 
     Hi, I’m @CollinEdward
-    I am studying, python, robotics, computer science.![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&theme=prussian&show_icons=true)
+    I am studying, python, robotics, computer science.
     How to reach me, 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366.
 
 Skills: Python, C++, robotics, computer sience, pentesting (web), networking.
