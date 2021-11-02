@@ -17,6 +17,8 @@ Skills: Python, C++, robotics, computer sience, pentesting (web), networking.
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)  
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CollinEdward)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/1cy5p0ng3b0b)  
 Discord
@@ -24,6 +26,4 @@ Discord
 https://discord.gg/DeY3DsqWd8
 
 ```
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)  
-
 ![Profile views](https://gpvc.arturio.dev/CollinEdward)
