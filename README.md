@@ -8,11 +8,11 @@ Statistics of my github profile
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)
 
 ### Hi there 👋, my name is Collin  Edward
-    Hi, I’m @CollinEdward
-    I am studying, python, robotics, computer science.
-    How to reach me, 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366.
+    Hi, I’m CollinEdward
+    I am studying, python, C and C++, computer science.
+    You can contact me at, 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366.
 
-Skills: Python, C++, robotics, computer sience, pentesting (web), networking.
+Skills: Python, C++, computer sience, pentesting (web), networking.
 
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366 
