@@ -12,7 +12,7 @@ Statistics of my github profile
     I am studying, python, C and C++, computer science.
     You can contact me at, 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366.
 
-Skills: Python, C++, computer sience, pentesting (web), networking.
+Skills: Python, C++, computer sience, pentesting (web), networking, hacking / cybersecurity.
 
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366 
