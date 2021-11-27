@@ -1,5 +1,3 @@
-Download all pinned repositories (bash terminal - git)
-
 Statistics of my github profile
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&theme=prussian&show_icons=true)
