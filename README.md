@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&theme=prussian&show_icons=true)
+<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&theme=prussian&show_icons=true)</center>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)
 
 ### Hi there 👋, my name is Collin Edward
