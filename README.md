@@ -2,7 +2,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)
 
 ### Hi there 👋, my name is Collin Edward
-    Hi, I’m CollinEdward
     I am studying python, C, C++ and computer science.
 
 Skills: Python, C++, computer sience, pentesting (web), networking, hacking / cybersecurity.
