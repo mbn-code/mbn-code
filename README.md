@@ -6,6 +6,8 @@
 
 Skills: Python, C++, computer sience, pentesting (web), networking, hacking / cybersecurity.
 
+Please check out my fiver services for custom scripts for your needs: https://www.fiverr.com/malthe_bang/make-scripts-in-python-to-automate-tasks
+
 - 🌱 Main language: python - Second language: C++ 
 - 📫 You can either reach me at: 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366, or in the discord listed below.
 Discord
