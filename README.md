@@ -7,21 +7,19 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on various projects including Refined RolePlay, FiveM Anticheat, FiveM Scripts, and more.
+- 🔭 I’m currently working on various projects using C++, Python3, and LUA.
 
-- 🌱 I’m currently learning Game Design in Unity with C# and C++.
+- 🌱 I’m currently learning LUA.
 
 - 👯 I’m looking to collaborate on fun and interesting projects.
 
-- 💬 Talk to me about Lua, JavaScript, C#, C++, PHP, and SQL.
+- 💬 Talk to me about Lua, JavaScript, Python, and C++.
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=lua&sort="> <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"> </a>
 <a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=python&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
-<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=cpp&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> </a>
-<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=csharp&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
 <a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
-<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=php&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg"> </a>
-<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=mysql&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"> </a>
+<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=cpp&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> </a>
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 <a href="https://www.github.com/CollinEdward"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
