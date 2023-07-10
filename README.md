@@ -1,29 +1,36 @@
-# Hi there! 👋
+<h1> Hello, welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&theme=prussian&show_icons=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CollinEdward)
+<div size="20px"> Hi! My name is Collin Edward. Thank you for taking the time to view my GitHub profile! :smile: 
+</div>
 
-## About Me
-My name is Collin Edward, and I'm passionate about programming and computer science. I'm currently studying Python, C, C++, and other aspects of computer science. I also have experience in pentesting (web), networking, hacking, and cybersecurity.
+<h2> About Me </h2>
 
-## Skills
-- Python
-- C++
-- Computer Science
-- Pentesting (Web)
-- Networking
-- Hacking / Cybersecurity
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-## Fiverr Services
-If you're interested, check out my Fiverr services where I offer custom scripts to automate tasks using Python: [Fiverr Profile](https://www.fiverr.com/malthe_bang/make-scripts-in-python-to-automate-tasks)
+- 🔭 I’m currently working on various projects including Refined RolePlay, FiveM Anticheat, FiveM Scripts, and more.
 
-## Contact
-You can reach me through Discord or find me on other platforms:
+- 🌱 I’m currently learning Game Design in Unity with C# and C++.
 
-- Discord: 1ƈʏ5ք0ռɢ3ɮ0ɮ#0366
-- [GitHub](https://github.com/CollinEdward)
-- [Twitter](https://twitter.com/1cy5p0ng3b0b)
+- 👯 I’m looking to collaborate on fun and interesting projects.
 
-Feel free to connect with me and let's discuss interesting projects or collaborations!
+- 💬 Talk to me about Lua, JavaScript, C#, C++, PHP, and SQL.
+
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=python&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
+<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=cpp&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> </a>
+<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=csharp&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
+<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
+<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=php&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg"> </a>
+<a href="https://github.com/CollinEdward?tab=repositories&q=&type=&language=mysql&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"> </a>
+
+<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+<a href="https://www.github.com/CollinEdward"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href="https://discord.gg/DeY3DsqWd8"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a>
+
+<h2> My GitHub Stats <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width="32px"> </h2>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&show_icons=true&theme=dark)
+
+<h2> Profile Views </h2>
 
 ![Profile views](https://gpvc.arturio.dev/CollinEdward)
