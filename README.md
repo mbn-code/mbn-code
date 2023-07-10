@@ -1,6 +1,11 @@
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm Collin Edward!</h1>
 
+<!-- Profile Image -->
+<p align="center">
+  <img src="1400x300.jpg" alt="Profile Image" width="1400" height="200">
+</p>
+
 <!-- Social and Website Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/collinedward"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
