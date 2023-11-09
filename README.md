@@ -15,15 +15,7 @@
 
 <!-- Profile Summary -->
 <p align="center">
-  Hello, I'm a 17-year-old aspiring programmer from the UK with a passion for technology and problem-solving. As a native English speaker, I possess fluent verbal and written communication skills. Ever since I was a child, I have been captivated by computers and have nurtured a natural inclination towards creativity and thinking outside the box.
-
-  My journey into programming began at the age of nine when I started creating basic HTML webpages. However, it wasn't until I turned twelve that I realized my true passion for programming and decided to pursue it seriously. Today, I primarily focus on developing software using Python3/3.10, specializing in creating both graphical user interface (GUI) and command-line interface (CLI) applications.
-
-  Constantly striving to enhance my language skills, I dedicate myself to transforming complex problem-solving into elegant lines of code. In addition to Python, I am well-versed in using GNU/Linux and confidently navigate the bash terminal. GNU/Linux serves as my operating system of choice, further deepening my understanding of the technical aspects of programming.
-
-  I am driven by a desire to learn, grow, and contribute to the exciting world of software development. With a steadfast dedication to continuous improvement, I am eager to embark on new challenges and collaborate on innovative projects.
-
-  Feel free to reach out to me to discuss programming, share ideas, or explore potential collaborations. Let's make a positive impact through technology together!
+  I'm a Danish software engineering student passionate about coding, specializing in C++, python and web development.
 </p>
 
 <!-- Skills -->
