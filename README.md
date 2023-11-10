@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hey there, I'm Collin Edward!</h1>
+<h1 align="center">👋 Hey there, I'm mbn!</h1>
 
 <!-- Profile Image -->
 <p align="center">
