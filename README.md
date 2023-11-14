@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/collinedward"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/CollinEdward"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://collinedward.dev"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Website"></a>
+  <a href="https://mbn-code.dk"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Website"></a>
 </p>
 
 <!-- Profile Summary -->
