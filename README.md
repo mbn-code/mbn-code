@@ -15,9 +15,9 @@ I'm [mbn](https://github.com/CollinEdward), a 17-year-old programmer hailing fro
 
 🌐 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](your_linkedin_profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](your_twitter_profile)
-[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white)](your_website_link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)]((https://www.linkedin.com/in/malthe-norengaard-aa1296226/))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](cstanleye)
+[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white)](mbn-code.dk)
 
 💬 **Let's Chat!**
 
