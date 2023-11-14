@@ -31,7 +31,7 @@ Always open to discussing programming, sharing ideas, or collaborating. Feel fre
 
 📧 **Contact**
 
-- Email: [your_email@example.com](mailto:malthe@mbn-code.dk)
+- Email: [malthe@mbn-code.dk](mailto:malthe@mbn-code.dk)
 - Discord: [Indian Tech Support](https://discord.gg/ew67GqFH3r)
 - [GitHub](https://github.com/CollinEdward)
   
