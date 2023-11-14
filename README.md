@@ -53,23 +53,23 @@ Always open to discussing programming, sharing ideas, or collaborating. Feel fre
    - Dive into the world of ethical hacking with this educational resource.
    - Explore digital security from operating systems to penetration testing.
    - Suitable for beginners and experienced enthusiasts alike. 🔒💻🌐
-   - [Check it out](https://github.com/CollinEdward/hackers-handbook)
+   - [Check it out]([https://github.com/CollinEdward/hackers-handbook](https://hackers-handbook-vol-1.netlify.app/))
 
 2. **Lane Detection - Python Project**
    - Experience lane detection with Python, utilizing OpenCV, NumPy, and Matplotlib.
    - Core feature: 'Lane detect test data.mp4' for evaluating performance.
    - Versatile and practical for various scenarios. 🚗👀
-   - [Check it out](https://github.com/CollinEdward/lane-detection)
+   - [Check it out]([https://github.com/CollinEdward/lane-detection](https://github.com/CollinEdward/LaneDetectionPython))
 
 3. **Face Detection - Capture Images Automatically**
    - Explore face detection and photography automation with Python scripts.
    - Powered by OpenCV and YOLOv3-tiny for accurate and real-time results.
    - Perfect for streamlining face detection tasks. 📸👤
-   - [Check it out](https://github.com/CollinEdward/face-detection)
+   - [Check it out]([https://github.com/CollinEdward/face-detection](https://github.com/CollinEdward/PhotoFaceDetect))
 
 4. **Python Sorting - Data Sorting Project**
    - Experience Python sorting with PySort, showcasing QuickSort and BubbleSort.
    - Dynamic visualization for an educational experience.
-   - [Check it out](https://github.com/CollinEdward/python-sorting)
+   - [Check it out]([https://github.com/CollinEdward/python-sorting](https://github.com/CollinEdward/PySort))
 
 Feel free to explore these projects, open issues, or contribute. Happy coding! 😊
