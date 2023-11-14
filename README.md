@@ -5,7 +5,7 @@
 
 # Hi there! 👋
 
-I'm [Collin Edward](https://github.com/CollinEdward), a 17-year-old programmer hailing from the beautiful country of Denmark 🇩🇰. 
+I'm [mbn](https://github.com/CollinEdward), a 17-year-old programmer hailing from the beautiful country of Denmark 🇩🇰. 
 
 🚀 **About Me**
 
@@ -31,8 +31,8 @@ Always open to discussing programming, sharing ideas, or collaborating. Feel fre
 
 📧 **Contact**
 
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- Discord: [YourDiscordUsername#1234](your_discord_link)
+- Email: [your_email@example.com](mailto:malthe@mbn-code.dk)
+- Discord: [Indian Tech Support](https://discord.gg/ew67GqFH3r)
 - [GitHub](https://github.com/CollinEdward)
   
 📊 **GitHub Stats**
