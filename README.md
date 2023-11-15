@@ -8,10 +8,6 @@
 I'm [mbn](https://github.com/CollinEdward), a programmer who is 17 years old, from Denmark 🇩🇰.
 
 
-
-
-. 
-
 🚀 **About Me**
 
 - 💡 Passionate about tech, creative problem-solving, and turning complex problems into elegant code.
