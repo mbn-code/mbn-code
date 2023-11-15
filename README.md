@@ -5,7 +5,12 @@
 
 # Hi there! 👋
 
-I'm [mbn](https://github.com/CollinEdward), a 17-year-old programmer hailing from the beautiful country of Denmark 🇩🇰. 
+I'm [mbn](https://github.com/CollinEdward), a programmer who is 17 years old, from Denmark 🇩🇰.
+
+
+
+
+. 
 
 🚀 **About Me**
 
