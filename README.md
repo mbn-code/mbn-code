@@ -33,7 +33,7 @@ Always open to discussing programming, sharing ideas, or collaborating. Feel fre
 📧 **Contact**
 
 - Email: [malthe@mbn-code.dk](mailto:malthe@mbn-code.dk)
-- Discord: [Indian Tech Support](https://discord.gg/ew67GqFH3r)
+- Discord: [![Join the Discord](https://invidget.switchblade.xyz/ySsrsYdGwx)](https://discord.gg/ySsrsYdGwx)
 - [GitHub](https://github.com/CollinEdward)
   
 📊 **GitHub Stats**
