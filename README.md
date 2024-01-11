@@ -5,13 +5,12 @@
 
 # Hi there! 👋
 
-I'm [mbn](https://github.com/CollinEdward), a programmer who is 17 years old, from Denmark 🇩🇰.
-
+I'm [mbn](https://github.com/CollinEdward), a 17-year-old programmer from Denmark 🇩🇰.
 
 🚀 **About Me**
 
-- 💡 Passionate about tech, creative problem-solving, and turning complex problems into elegant code.
-- 👨‍💻 Started coding at the age of nine with HTML, and at twelve, I delved into serious programming.
+- 💡 Passionate about tech and creative problem-solving.
+- 👨‍💻 Started coding at nine with HTML, delved into serious programming at twelve.
 - 📱💻 Currently focused on Python 3, creating sleek GUI and powerful CLI apps.
 
 🌐 **Connect with Me**
@@ -22,7 +21,7 @@ I'm [mbn](https://github.com/CollinEdward), a programmer who is 17 years old, fr
 
 💬 **Let's Chat!**
 
-Always open to discussing programming, sharing ideas, or collaborating. Feel free to reach out!
+Always open to discussing programming, sharing ideas, or collaborating.
 
 🛠️ **Skills**
 
@@ -33,7 +32,7 @@ Always open to discussing programming, sharing ideas, or collaborating. Feel fre
 📧 **Contact**
 
 - Email: [malthe@mbn-code.dk](mailto:malthe@mbn-code.dk)
-[![Join the Discord](https://invidget.switchblade.xyz/6qMBfyC9Hy)](https://discord.gg/6qMBfyC9Hy)
+- [![Join the Discord](https://invidget.switchblade.xyz/6qMBfyC9Hy)](https://discord.gg/6qMBfyC9Hy)
 - [GitHub](https://github.com/CollinEdward)
   
 📊 **GitHub Stats**
@@ -51,26 +50,22 @@ Always open to discussing programming, sharing ideas, or collaborating. Feel fre
 👨‍💻 **Current Projects**
 
 1. **Hackers Handbook Vol. 1 - Your Path to Ethical Hacking**
-   - Dive into the world of ethical hacking with this educational resource.
    - Explore digital security from operating systems to penetration testing.
    - Suitable for beginners and experienced enthusiasts alike. 🔒💻🌐
-   - [Check it out]([https://github.com/CollinEdward/hackers-handbook](https://hackers-handbook-vol-1.netlify.app/))
+   - [Check it out](https://hackers-handbook-vol-1.netlify.app/)
 
 2. **Lane Detection - Python Project**
-   - Experience lane detection with Python, utilizing OpenCV, NumPy, and Matplotlib.
    - Core feature: 'Lane detect test data.mp4' for evaluating performance.
    - Versatile and practical for various scenarios. 🚗👀
-   - [Check it out]([https://github.com/CollinEdward/lane-detection](https://github.com/CollinEdward/LaneDetectionPython))
+   - [Check it out](https://github.com/CollinEdward/LaneDetectionPython)
 
 3. **Face Detection - Capture Images Automatically**
-   - Explore face detection and photography automation with Python scripts.
    - Powered by OpenCV and YOLOv3-tiny for accurate and real-time results.
    - Perfect for streamlining face detection tasks. 📸👤
-   - [Check it out]([https://github.com/CollinEdward/face-detection](https://github.com/CollinEdward/PhotoFaceDetect))
+   - [Check it out](https://github.com/CollinEdward/PhotoFaceDetect)
 
 4. **Python Sorting - Data Sorting Project**
-   - Experience Python sorting with PySort, showcasing QuickSort and BubbleSort.
    - Dynamic visualization for an educational experience.
-   - [Check it out]([https://github.com/CollinEdward/python-sorting](https://github.com/CollinEdward/PySort))
+   - [Check it out](https://github.com/CollinEdward/PySort)
 
 Feel free to explore these projects, open issues, or contribute. Happy coding! 😊
