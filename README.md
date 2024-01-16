@@ -25,7 +25,6 @@ Always open to discussing programming, sharing ideas, or collaborating.
 
 🛠️ **Skills**
 
-- Fluent in Danish ✍️
 - Proficient in GNU/Linux and bash 💡
 - Constantly honing language skills 🗣️
 
