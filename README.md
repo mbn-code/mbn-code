@@ -3,9 +3,11 @@
   <img src="1400x300.jpg" alt="Profile" width="1400" height="200">
 </p>
 
-# Hi there! 👋
+# Hi there! 👋 I'm [mbn](https://github.com/CollinEdward) 👀 **Github Views**
 
-I'm [mbn](https://github.com/CollinEdward), a 17-year-old programmer from Denmark 🇩🇰.
+![Profile Views](https://komarev.com/ghpvc/?username=CollinEdward)
+
+<img src="https://myreadme.vercel.app/api/embed/CollinEdward?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 🚀 **About Me**
 
@@ -13,34 +15,19 @@ I'm [mbn](https://github.com/CollinEdward), a 17-year-old programmer from Denmar
 - 👨‍💻 Started coding at nine with HTML, delved into serious programming at twelve.
 - 📱💻 Currently focused on Python 3, creating sleek GUI and powerful CLI apps.
 
-🌐 **Connect with Me**
+**Visit My Website**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)]((https://www.linkedin.com/in/malthe-norengaard-aa1296226/))
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](cstanleye)
-[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white)](mbn-code.dk)
-
-💬 **Let's Chat!**
-
-Always open to discussing programming, sharing ideas, or collaborating.
-
-🛠️ **Skills**
-
-- Proficient in GNU/Linux and bash 💡
-- Constantly honing language skills 🗣️
+- [mbn website](https://mbn-code.dk)
 
 📧 **Contact**
 
-- Email: [malthe@mbn-code.dk](mailto:malthe@mbn-code.dk)
-- [![Join the Discord](https://invidget.switchblade.xyz/6qMBfyC9Hy)](https://discord.gg/6qMBfyC9Hy)
+- [malthe@mbn-code.dk](mailto:malthe@mbn-code.dk)
+- [Join the Discord](https://discord.gg/6qMBfyC9Hy)
 - [GitHub](https://github.com/CollinEdward)
   
 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CollinEdward&show_icons=true&hide=issues&hide_border=true&count_private=true&theme=dark)
-
-👀 **Github Views**
-
-![Profile Views](https://komarev.com/ghpvc/?username=CollinEdward)
 
 📈 **Repos Overview**
 
