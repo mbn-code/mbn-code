@@ -3,9 +3,7 @@
   <img src="1400x300.jpg" alt="Profile" width="1400" height="200">
 </p>
 
-# Hi there! 👋 I'm [mbn](https://github.com/CollinEdward) 👀 **Github Views**
-
-![Profile Views](https://komarev.com/ghpvc/?username=CollinEdward)
+# Hi there! 👋 I'm [mbn](https://github.com/CollinEdward) 👀 **Github Views** ![Profile Views](https://komarev.com/ghpvc/?username=CollinEdward)
 
 <img src="https://myreadme.vercel.app/api/embed/CollinEdward?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
