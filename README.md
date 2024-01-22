@@ -36,7 +36,7 @@
 1. **Hackers Handbook Vol. 1 - Your Path to Ethical Hacking**
    - Explore digital security from operating systems to penetration testing.
    - Suitable for beginners and experienced enthusiasts alike. 🔒💻🌐
-   - [Check it out]([https://hackers-handbook-vol-1.netlify.app/](https://github.com/CollinEdward/Hackers-Handbook-Vol-1))
+   - [Check it out]([https://hackers-handbook-vol-1.netlify.app/](https://github.com/CollinEdward/Hackers-Handbook-Vol-1)
 
 2. **Lane Detection - Python Project**
    - Core feature: 'Lane detect test data.mp4' for evaluating performance.
