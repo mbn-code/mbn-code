@@ -11,7 +11,7 @@
 
 - 💡 Passionate about tech and creative problem-solving.
 - 👨‍💻 Started coding at nine with HTML, delved into serious programming at twelve.
-- 📱💻 Currently focused on Python 3, creating sleek GUI and powerful CLI apps.
+- 📱💻 Currently wokring with Rust and C++
 
 **Visit My Website**
 
