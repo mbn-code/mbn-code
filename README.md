@@ -22,7 +22,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm <strong>Malthe Bang Norengaard</strong>, a passionate <strong>front-end web developer</strong> with expertise in creating visually appealing and user-friendly websites. I have several years of experience in web design and development, always staying updated with the latest industry trends to deliver high-quality solutions. Feel free to explore my work and reach out for <strong>collaborations</strong> or <strong>web development projects</strong>! Let's build something amazing together.
+  I'm <strong>mbn</strong>, I do c++ and full stack development for web 
 </p>
 
 ---
