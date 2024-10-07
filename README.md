@@ -51,12 +51,12 @@
     <tr>
       <td><strong>Bitwars c++ raylib game</strong></td>
       <td>C++ War Game written entirely in c++ and using raylib for game library</td>
-      <td><a href="[https://github.com/mbn-code/Hackers-Handbook-Vol-1](https://github.com/mbn-code/Bitwars)">Bitwars</a></td>
+      <td><a href="https://github.com/mbn-code/Bitwars">Bitwars</a></td>
     </tr>
     <tr>
       <td><strong>Dijkstra Unity Project</strong></td>
       <td>Unity project to visualise Dijkstras algorithm moving through a map</td>
-      <td><a href="[https://github.com/mbn-code/Hackers-Handbook-Vol-1](https://github.com/mbn-code/Dijkstra)">Dijkstra Unity Project</a></td>
+      <td><a href="https://github.com/mbn-code/Dijkstra">Dijkstra Unity Project</a></td>
     </tr>
     <tr>
       <td><strong>Hackers Handbook Vol. 1</strong></td>
