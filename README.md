@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="1400x300.jpg" alt="Profile Banner" width="1400" height="200">
-</p>
-
-<h1 align="center">Hi there! 👋 I'm <a href="https://github.com/mbn-code">mbn</a></h1>
-
-<p align="center">
   <a href="https://github.com/mbn-code">
     <img src="https://komarev.com/ghpvc/?username=mbn-code&style=flat-square&color=blueviolet" alt="Profile Views">
   </a>
@@ -18,26 +12,6 @@
     <img src="https://img.shields.io/badge/Visit-My%20Website-1abc9c?style=flat-square" alt="Visit My Website">
   </a>
 </p>
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  I'm <strong>mbn</strong>, I do c++ and full stack development for web 
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbn-code&show_icons=true&hide=issues&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbn-code&layout=compact&hide_border=true&theme=radical" alt="Top Languages">
-</div>
-
----
-
-<h2 align="center">👨‍💻 Current Projects</h2>
 
 <table align="center" style="width:80%">
   <thead align="center">
