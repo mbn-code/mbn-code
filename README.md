@@ -13,6 +13,18 @@
   </a>
 </p>
 
+## 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+
+## 📊 GitHub Stats
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbn-code&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mbn-code&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <table align="center" style="width:80%">
   <thead align="center">
     <tr>
