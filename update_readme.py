@@ -3,7 +3,7 @@ from datetime import datetime
 import pytz
 import os
 
-def get_recent_activity(github_token):
+def get_recent_activity(github_token, max_events=5):
     g = Github(github_token)
     user = g.get_user()
     events = user.get_events()
@@ -12,7 +12,7 @@ def get_recent_activity(github_token):
     count = 0
     
     for event in events:
-        if count >= 5:  # Get last 5 activities
+        if count >= max_events:
             break
             
         event_desc = ""
@@ -23,11 +23,16 @@ def get_recent_activity(github_token):
             repo_name = event.repo.name
             event_desc = f"📂 Created repository [{repo_name}](https://github.com/{repo_name})"
         elif event.type == "IssuesEvent":
-            issue = event.payload['issue']
-            event_desc = f"❗ {event.payload['action'].capitalize()} issue #{issue['number']} in [{event.repo.name}]({issue['html_url']})"
+            issue = event.payload.get('issue', {})
+            action = event.payload.get('action', '').capitalize()
+            event_desc = f"❗ {action} issue #{issue.get('number')} in [{event.repo.name}](https://github.com/{event.repo.name})"
         elif event.type == "PullRequestEvent":
-            pr = event.payload['pull_request']
-            event_desc = f"🔀 {event.payload['action'].capitalize()} PR #{pr['number']} in [{event.repo.name}]({pr['html_url']})"
+            pr = event.payload.get('pull_request', {})
+            action = event.payload.get('action', '').capitalize()
+            event_desc = f"🔀 {action} PR #{pr.get('number')} in [{event.repo.name}](https://github.com/{event.repo.name})"
+        elif event.type == "ForkEvent":
+            forkee = event.payload.get('forkee', {})
+            event_desc = f🍴 Forked [{forkee.get('full_name')}](https://github.com/{forkee.get('full_name')})"
         
         if event_desc:
             activity_list.append(event_desc)
@@ -36,31 +41,34 @@ def get_recent_activity(github_token):
     return activity_list
 
 def update_readme():
-    # Read existing README content
-    with open('README.md', 'r', encoding='utf-8') as f:
+    readme_path = 'README.md'
+    
+    if not os.path.exists(readme_path):
+        print(f"{readme_path} does not exist.")
+        return
+    
+    with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Get recent activity
     github_token = os.getenv('GH_TOKEN')
+    if not github_token:
+        print("GH_TOKEN environment variable not set.")
+        return
+    
     activities = get_recent_activity(github_token)
     
-    # Create recent activity section
     utc_now = datetime.now(pytz.UTC)
     activity_section = "\n## 🔥 Recent Activity\n\n"
     activity_section += f"Last Updated: {utc_now.strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
     for activity in activities:
         activity_section += f"• {activity}\n"
     
-    # Check if recent activity section already exists
     if "## 🔥 Recent Activity" in content:
-        # Replace existing section
         content = content.split("## 🔥 Recent Activity")[0] + activity_section
     else:
-        # Add new section at the end
         content = content.strip() + "\n\n" + activity_section
     
-    # Write updated content back to README
-    with open('README.md', 'w', encoding='utf-8') as f:
+    with open(readme_path, 'w', encoding='utf-8') as f:
         f.write(content)
 
 if __name__ == "__main__":
