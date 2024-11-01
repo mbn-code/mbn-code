@@ -18,22 +18,26 @@ def get_recent_activity(github_token):
         event_desc = ""
         if event.type == "PushEvent":
             repo_name = event.repo.name
-            event_desc = f"💻 Pushed code to [{repo_name}](https://github.com/{repo_name})"
+            commits = event.payload.get('commits', [])
+            if commits:
+                message = commits[0].get('message', '').split('\n')[0][:60]
+                event_desc = f"🚀 Pushed: \"{message}\" to [{repo_name}](https://github.com/{repo_name})"
         elif event.type == "CreateEvent":
             repo_name = event.repo.name
-            event_desc = f"🎉 Created repository [{repo_name}](https://github.com/{repo_name})"
+            ref_type = event.payload.get('ref_type', '')
+            if ref_type == 'repository':
+                event_desc = f"📂 Created new repository [{repo_name}](https://github.com/{repo_name})"
+            elif ref_type:
+                event_desc = f"🌿 Created {ref_type} in [{repo_name}](https://github.com/{repo_name})"
         elif event.type == "IssuesEvent":
             issue = event.payload['issue']
-            event_desc = f"📝 {event.payload['action'].capitalize()} issue #{issue['number']} in [{event.repo.name}]({issue['html_url']})"
+            event_desc = f"📝 {event.payload['action'].capitalize()} issue \"#{issue['number']}: {issue['title']}\" in [{event.repo.name}]({issue['html_url']})"
         elif event.type == "PullRequestEvent":
             pr = event.payload['pull_request']
-            event_desc = f"🔃 {event.payload['action'].capitalize()} PR #{pr['number']} in [{event.repo.name}]({pr['html_url']})"
-        elif event.type == "ForkEvent":
-            repo_name = event.repo.name
-            event_desc = f"🍴 Forked [{repo_name}](https://github.com/{repo_name})"
-        elif event.type == "WatchEvent":
-            repo_name = event.repo.name
-            event_desc = f"⭐ Starred [{repo_name}](https://github.com/{repo_name})"
+            event_desc = f"🔄 {event.payload['action'].capitalize()} PR \"#{pr['number']}: {pr['title']}\" in [{event.repo.name}]({pr['html_url']})"
+        elif event.type == "ReleaseEvent":
+            release = event.payload['release']
+            event_desc = f"📦 {event.payload['action'].capitalize()} release \"{release['name']}\" in [{event.repo.name}]({release['html_url']})"
         elif event.type == "PublicEvent":
             repo_name = event.repo.name
             event_desc = f"🌟 Made [{repo_name}](https://github.com/{repo_name}) public"
@@ -54,32 +58,28 @@ def update_readme():
     activities = get_recent_activity(github_token)
     
     # Create recent activity section with enhanced styling
-    activity_section = "\n<details>\n"
-    activity_section += "<summary><b>🔥 Recent GitHub Activity</b></summary>\n\n"
-    
-    # Add timestamp with emoji
     utc_now = datetime.now(pytz.UTC)
+    
+    activity_section = "\n## 🎯 My Recent Activity\n\n"
     activity_section += f"<div align='center'>\n\n"
-    activity_section += f"🕐 Last Updated: `{utc_now.strftime('%Y-%m-%d %H:%M')} UTC`\n\n"
+    activity_section += f"*Last Updated: `{utc_now.strftime('%Y-%m-%d %H:%M')} UTC`*\n\n"
     activity_section += "</div>\n\n"
     
     # Add activities with better formatting
-    activity_section += "<table>\n<tr><td width='100%'>\n\n"
     for activity in activities:
-        activity_section += f"▪️ {activity}\n"
-    activity_section += "\n</td></tr>\n</table>\n\n"
-    activity_section += "</details>\n"
+        activity_section += f"- {activity}\n"
     
-    # Check if recent activity section already exists
-    if "<summary><b>🔥 Recent GitHub Activity</b></summary>" in content:
-        # Replace existing section
-        parts = content.split("<details>")
-        content = parts[0] + activity_section
-        if len(parts) > 2:
-            content += "<details>" + "".join(parts[2:])
+    # Replace existing section or add new one
+    if "## 🎯 My Recent Activity" in content:
+        parts = content.split("## 🎯 My Recent Activity")
+        new_content = parts[0].rstrip() + activity_section
+        if len(parts) > 1:
+            remaining = parts[1].split("\n##", 1)
+            if len(remaining) > 1:
+                new_content += "\n##" + remaining[1]
+        content = new_content
     else:
-        # Add new section at the end
-        content = content.strip() + "\n\n" + activity_section
+        content = content.rstrip() + "\n\n" + activity_section
     
     # Write updated content back to README
     with open('README.md', 'w', encoding='utf-8') as f:
