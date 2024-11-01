@@ -35,7 +35,7 @@ def get_recent_activity(github_token):
 def update_readme():
     utc_now = datetime.now(pytz.UTC)
     
-    activity_section = "Last Updated: " + utc_now.strftime('%Y-%m-%d %H:%M:%S UTC') + "\n\n"
+    activity_section = "\n\nLast Updated: " + utc_now.strftime('%Y-%m-%d %H:%M:%S UTC') + "\n\n"
     activity_section += "Activity\n"
     
     activities = get_recent_activity(os.getenv('GH_TOKEN'))
@@ -43,7 +43,7 @@ def update_readme():
     for activity in activities:
         activity_section += f"{activity}\n"
     
-    with open('README.md', 'w', encoding='utf-8') as f:
+    with open('README.md', 'a', encoding='utf-8') as f:
         f.write(activity_section)
 
 if __name__ == "__main__":
