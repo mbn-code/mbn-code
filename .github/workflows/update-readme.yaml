@@ -2,7 +2,6 @@ name: Update README with Activity
 
 on:
   schedule:
-    # Runs every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
@@ -11,9 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: write
     
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
       
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -27,14 +30,14 @@ jobs:
           
       - name: Update README
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python update_readme.py
         
       - name: Commit and Push
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update README with recent activity"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with recent activity" && git push)
