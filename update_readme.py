@@ -19,12 +19,12 @@ def get_recent_activity(github_token):
         if event.type == "PullRequestEvent":
             pr = event.payload['pull_request']
             action = event.payload['action']
-            event_desc = f"🔀 {action.capitalize()} PR #{pr['number']} in {event.repo.name}"
+            event_desc = f"🔀 {action.capitalize()} PR **#{pr['number']}** in **[{event.repo.name}](https://github.com/{event.repo.name})**"
         elif event.type == "CreateEvent":
             repo_name = event.repo.name
             ref_type = event.payload.get('ref_type', '')
             if ref_type == 'repository':
-                event_desc = f"📂 Created repository {repo_name}"
+                event_desc = f"📂 Created repository **[{repo_name}](https://github.com/{repo_name})**"
         
         if event_desc:
             activity_list.append(event_desc)
@@ -35,16 +35,20 @@ def get_recent_activity(github_token):
 def update_readme():
     utc_now = datetime.now(pytz.UTC)
     
-    activity_section = "\n\nLast Updated: " + utc_now.strftime('%Y-%m-%d %H:%M:%S UTC') + "\n\n"
-    activity_section += "Activity\n"
+    with open('README.md', 'r', encoding='utf-8') as f:
+        content = f.read()
     
-    activities = get_recent_activity(os.getenv('GH_TOKEN'))
-    
-    for activity in activities:
-        activity_section += f"{activity}\n"
-    
-    with open('README.md', 'a', encoding='utf-8') as f:
-        f.write(activity_section)
+    marker = "## 🔥 Recent Activity"
+    if marker in content:
+        parts = content.split(marker)
+        new_activity = "\n\n**Last Updated:** " + utc_now.strftime('%Y-%m-%d %H:%M:%S UTC') + "\n\n| Activity |\n| --- |\n"
+        activities = get_recent_activity(os.getenv('GH_TOKEN'))
+        for activity in activities:
+            new_activity += f"| {activity} |\n"
+        updated_content = parts[0] + marker + new_activity + parts[1]
+        
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(updated_content)
 
 if __name__ == "__main__":
     update_readme()
