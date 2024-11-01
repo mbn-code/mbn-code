@@ -18,21 +18,21 @@ def get_recent_activity(github_token, max_events=5):
         event_desc = ""
         if event.type == "PushEvent":
             repo_name = event.repo.name
-            event_desc = f"🔨 Pushed to [{repo_name}](https://github.com/{repo_name})"
+            event_desc = f"🔨 Pushed to **[{repo_name}](https://github.com/{repo_name})**"
         elif event.type == "CreateEvent":
             repo_name = event.repo.name
-            event_desc = f"📂 Created repository [{repo_name}](https://github.com/{repo_name})"
+            event_desc = f"📂 Created repository **[{repo_name}](https://github.com/{repo_name})**"
         elif event.type == "IssuesEvent":
             issue = event.payload.get('issue', {})
             action = event.payload.get('action', '').capitalize()
-            event_desc = f"❗ {action} issue #{issue.get('number')} in [{event.repo.name}](https://github.com/{event.repo.name})"
+            event_desc = f"❗ {action} issue **#{issue.get('number')}** in **[{event.repo.name}](https://github.com/{event.repo.name})**"
         elif event.type == "PullRequestEvent":
             pr = event.payload.get('pull_request', {})
             action = event.payload.get('action', '').capitalize()
-            event_desc = f"🔀 {action} PR #{pr.get('number')} in [{event.repo.name}](https://github.com/{event.repo.name})"
+            event_desc = f"🔀 {action} PR **#{pr.get('number')}** in **[{event.repo.name}](https://github.com/{event.repo.name})**"
         elif event.type == "ForkEvent":
             forkee = event.payload.get('forkee', {})
-            event_desc = f🍴 Forked [{forkee.get('full_name')}](https://github.com/{forkee.get('full_name')})"
+            event_desc = f"🍴 Forked **[{forkee.get('full_name')}](https://github.com/{forkee.get('full_name')})**"
         
         if event_desc:
             activity_list.append(event_desc)
@@ -59,9 +59,10 @@ def update_readme():
     
     utc_now = datetime.now(pytz.UTC)
     activity_section = "\n## 🔥 Recent Activity\n\n"
-    activity_section += f"Last Updated: {utc_now.strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
+    activity_section += f"**Last Updated:** {utc_now.strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
+    activity_section += "| Activity |\n| --- |\n"
     for activity in activities:
-        activity_section += f"• {activity}\n"
+        activity_section += f"| {activity} |\n"
     
     if "## 🔥 Recent Activity" in content:
         content = content.split("## 🔥 Recent Activity")[0] + activity_section
