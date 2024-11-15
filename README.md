@@ -26,7 +26,7 @@
 | --- | --- | --- |
 | **Bitwars c++ raylib game** | C++ War Game written entirely in c++ and using raylib for game library | [Bitwars](https://github.com/mbn-code/Bitwars) |
 | **Dijkstra Unity Project** | Unity project to visualise Dijkstras algorithm moving through a map | [Dijkstra Unity Project](https://github.com/mbn-code/Dijkstra) |
-| **Hackers Handbook Vol. 1** | Your Path to Ethical Hacking. Explore digital security from operating systems to penetration testing. | [Start hacking](https://github.com/mbn-code/Hackers-Handbook-Vol-1) |
+| **Hackers Handbook Vol. 1** | Your Path to Ethical Hacking. Explore digital security from operating systems to penetration testing. | [Start hacking](https://github.com/mbn-code/Hackers-Handbook-Vol-1-Full-Version) |
 | **Lane Detection - Python Project** | Core feature: 'Lane detect test data.mp4' for evaluating performance. Versatile and practical for various scenarios. | [Check it out](https://github.com/mbn-code/LaneDetectionPython) |
 | **Face Detection - Capture Images Automatically** | Powered by OpenCV and YOLOv3-tiny for accurate and real-time results. Perfect for streamlining face detection tasks. | [Detect now](https://github.com/mbn-code/PhotoFaceDetect) |
 | **Python Sorting - Data Sorting Project** | Dynamic visualization for an educational experience. | [Get sorting](https://github.com/mbn-code/PySort) |
