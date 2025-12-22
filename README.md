@@ -1,10 +1,16 @@
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mbn-code&style=flat-square&color=blueviolet)](https://github.com/mbn-code)
-[![Join Discord](https://img.shields.io/discord/6qMBfyC9Hy?label=Join%20Discord&logo=discord&style=flat-square&color=5865F2)](https://discord.gg/6qMBfyC9Hy)
-[![Email](https://img.shields.io/badge/Email-malthe@mbn--code.dk-ff5757?style=flat-square&logo=gmail&logoColor=white)](mailto:malthe@mbn-code.dk)
-[![Website](https://img.shields.io/badge/Visit-My%20Website-1abc9c?style=flat-square)](https://mbn-code.dk)
-
+	<a href="https://github.com/mbn-code" aria-label="Profile views">
+		<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=mbn-code&style=flat-square&color=blueviolet" />
+	</a>
+	<a href="https://discord.gg/6qMBfyC9Hy" aria-label="Join Discord">
+		<img alt="Join Discord" src="https://img.shields.io/badge/Join%20Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+	</a>
+	<a href="mailto:malthe@mbn-code.dk" aria-label="Email">
+		<img alt="Email malthe@mbn-code.dk" src="https://img.shields.io/badge/Email-malthe@mbn--code.dk-ff5757?style=flat-square&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://mbn-code.dk" aria-label="Website">
+		<img alt="Visit My Website" src="https://img.shields.io/badge/Visit-My%20Website-1abc9c?style=flat-square" />
+	</a>
 </div>
 
 ## 🛠️ Tech Stack
@@ -12,24 +18,25 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+## 🎯 Focus Areas
+
+- C++
+- Computer vision with Python, OpenCV, and YOLO
+- Unity pathfinding, graph algorithms, and visualization
 
 ## 📊 GitHub Stats
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbn-code&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution activity graph for mbn-code](https://github-readme-activity-graph.vercel.app/graph?username=mbn-code&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mbn-code&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 | **Project** | **Description** | **Link** |
 | --- | --- | --- |
-| **Bitwars c++ raylib game** | C++ War Game written entirely in c++ and using raylib for game library | [Bitwars](https://github.com/mbn-code/Bitwars) |
-| **Dijkstra Unity Project** | Unity project to visualise Dijkstras algorithm moving through a map | [Dijkstra Unity Project](https://github.com/mbn-code/Dijkstra) |
-| **Hackers Handbook Vol. 1** | Your Path to Ethical Hacking. Explore digital security from operating systems to penetration testing. | [Start hacking](https://github.com/mbn-code/Hackers-Handbook-Vol-1-Full-Version) |
-| **Lane Detection - Python Project** | Core feature: 'Lane detect test data.mp4' for evaluating performance. Versatile and practical for various scenarios. | [Check it out](https://github.com/mbn-code/LaneDetectionPython) |
-| **Face Detection - Capture Images Automatically** | Powered by OpenCV and YOLOv3-tiny for accurate and real-time results. Perfect for streamlining face detection tasks. | [Detect now](https://github.com/mbn-code/PhotoFaceDetect) |
-| **Python Sorting - Data Sorting Project** | Dynamic visualization for an educational experience. | [Get sorting](https://github.com/mbn-code/PySort) |
-| **Windows Kernel Driver** | Learn to write a kernel driver with a user mode interface. | [Read now](https://github.com/mbn-code/The-Kernel-Driver-Guide-External) |
-| **rusty-OLLAMA** | Very simple but efficient multi-platform implementation of OLLAMA model in Rust. | [Start exploring](https://github.com/mbn-code/rusty-OLLAMA) |
-| **GitHub Local Searcher** | Python-written GUI for searching for GitHub projects on the go. | [Get searching](https://github.com/mbn-code/GitSearch) |
+| **Bitwars c++ raylib game** | C++/raylib top-down battle prototype. | [GitHub](https://github.com/mbn-code/Bitwars) |
+| **rusty-OLLAMA** | Lightweight Rust client for OLLAMA models. | [GitHub](https://github.com/mbn-code/rusty-OLLAMA) |
+| **Dijkstra Unity Project** | Visualizes Dijkstra pathfinding on grid maps. | [GitHub](https://github.com/mbn-code/Dijkstra) |
+| **Lane Detection - Python Project** | Lane detection demo with bundled test video. | [GitHub](https://github.com/mbn-code/LaneDetectionPython) |
+| **Face Detection - Capture Images Automatically** | YOLOv3-tiny webcam capture tool for faces. | [GitHub](https://github.com/mbn-code/PhotoFaceDetect) |
+| **Windows Kernel Driver** | Starter guide with user-mode interface for drivers. | [GitHub](https://github.com/mbn-code/The-Kernel-Driver-Guide-External) |
+| **Python Sorting - Data Sorting Project** | Animated sorting visualizer for teaching. | [GitHub](https://github.com/mbn-code/PySort) |
