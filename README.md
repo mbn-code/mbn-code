@@ -2,7 +2,7 @@
 
 Co-founder & CTO at [Cryvanta](https://cryvanta.io), building EU-sovereign security infrastructure across endpoint telemetry, detection pipelines, AI-assisted analysis, and the platform underneath it.
 
-Based in Copenhagen, I work with Rust, C++, TypeScript, and Python. From low-level Windows systems to developer tools and web products. This is my personal GitHub, so it also contains experiments, university work, games, and projects built simply to learn something new.
+Based in Copenhagen, I work with Rust, C++, TypeScript, and Python across low-level Windows systems, developer tools, and web products. This is my personal GitHub, so it also contains experiments, university work, games, and projects built simply to learn something new.
 
 ### Selected work
 
